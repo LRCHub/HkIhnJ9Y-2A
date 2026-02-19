@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Love Forever",
+  "base_artist": "加藤ミリヤ、清水　翔太",
+  "createdAt": "2026-02-19T15:44:14.492328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Love Is Your Love (Forever)",
+      "artist": "The Isley Brothers",
+      "has_synced": false,
+      "path": "select/01_My_Love_Is_Your_Love_(Forever)_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Is Love Forever",
+      "artist": "Spoon",
+      "has_synced": true,
+      "path": "select/02_Is_Love_Forever_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To Love Forever",
+      "artist": "William Fitzsimmons",
+      "has_synced": false,
+      "path": "select/03_To_Love_Forever_William_Fitzsimmons.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In Love Forever",
+      "artist": "Chris de Burgh",
+      "has_synced": true,
+      "path": "select/04_In_Love_Forever_Chris_de_Burgh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Love Forever",
+      "artist": "Flying Colors",
+      "has_synced": true,
+      "path": "select/05_One_Love_Forever_Flying_Colors.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Forever (feat. YUKI)",
+      "artist": "GING NANG BOYZ feat. YUKI",
+      "has_synced": true,
+      "path": "select/06_Love_Forever_(feat._YUKI)_GING_NANG_BOYZ_feat._YUKI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOVE FOREVER (ft.YUKI) [恋は永遠]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": true,
+      "path": "select/07_LOVE_FOREVER_(ft.YUKI)_[恋は永遠]_Ging_Nang_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOVE FOREVER(DEEN The Best キセキ)",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/08_LOVE_FOREVER(DEEN_The_Best_キセキ)_DEEN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LOVE FOREVER",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/09_LOVE_FOREVER_DEEN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Could Sing of Your Love Forever",
+      "artist": "Delirious?",
+      "has_synced": false,
+      "path": "select/10_I_Could_Sing_of_Your_Love_Forever_Delirious.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Could Sing Of Your Love Forever",
+      "artist": "Delirious?",
+      "has_synced": true,
+      "path": "select/11_I_Could_Sing_Of_Your_Love_Forever_Delirious.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Could Sing of Your Love Forever / God's Romance (Medley) [Live]",
+      "artist": "Hillsong Worship",
+      "has_synced": false,
+      "path": "select/12_I_Could_Sing_of_Your_Love_Forever___God's_Romance_(Medley)_[Live]_Hillsong_Worship.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Could Sing Of Your Love Forever/God's Romance - Live",
+      "artist": "Hillsong Worship/Delirious?",
+      "has_synced": false,
+      "path": "select/13_I_Could_Sing_Of_Your_Love_Forever_God's_Romance_-_Live_Hillsong_Worship_Delirious.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stay Love Forever (prod. by malenkiyyarche)",
+      "artist": "LOVV66",
+      "has_synced": false,
+      "path": "select/14_Stay_Love_Forever_(prod._by_malenkiyyarche)_LOVV66.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Could Sing of Your Love Forever",
+      "artist": "Sonicflood",
+      "has_synced": false,
+      "path": "select/15_I_Could_Sing_of_Your_Love_Forever_Sonicflood.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Could Sing of Your Love Forever",
+      "artist": "The Insyderz",
+      "has_synced": true,
+      "path": "select/16_I_Could_Sing_of_Your_Love_Forever_The_Insyderz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "In Love Forever",
+      "artist": "Chris de Burgh",
+      "has_synced": true,
+      "path": "select/17_In_Love_Forever_Chris_de_Burgh.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "LOVE FOREVER",
+      "artist": "Jaurim",
+      "has_synced": false,
+      "path": "select/18_LOVE_FOREVER_Jaurim.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "In Love Forever - Re-Recorded Version",
+      "artist": "Chris de Burgh",
+      "has_synced": false,
+      "path": "select/19_In_Love_Forever_-_Re-Recorded_Version_Chris_de_Burgh.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Forever (加藤ミリヤ×清水翔太)",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Forever_(加藤ミリヤ×清水翔太)_加藤_ミリヤ.txt"
+    }
+  ]
+}
